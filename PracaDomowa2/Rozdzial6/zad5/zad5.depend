@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615467760 source:c:\users\tmast\onedrive\pulpit\ps_cwiczenia\rozdzial6\zad5\main.c
+	<stdio.h>
+	<stdlib.h>
+
